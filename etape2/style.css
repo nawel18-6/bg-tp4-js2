@@ -1,0 +1,35 @@
+body {
+    font-family: Calibri, sans-serif;
+}
+
+#table_container {
+    width: 60%;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #1e99db;
+}
+
+.col_number {
+    width: 10%;
+}
+
+.col_text {
+    width: 25%;
+}
+
+.col_chkbox {
+    width: 15%;
+}
